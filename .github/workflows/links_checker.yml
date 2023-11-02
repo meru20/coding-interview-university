@@ -1,7 +1,7 @@
 name: Links Checker
 
 on:
-  ## Allow triggering this workflow manually via GitHub CLI/web
+  ## Allow triggering this workflow manually via GitHub CLI/web x
   workflow_dispatch:
 
   ## Run this workflow automatically every month
